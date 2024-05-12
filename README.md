@@ -46,7 +46,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<<img src="https://img.shields.io/badge/-CCNA%20(Soften%20Technologies)-0056b3?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-RHCE%20(Soften%20Technologies)-FF0000?style=for-the-badge&logo=redhat&logoColor=white" />
+
+
+
+
+
+
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
