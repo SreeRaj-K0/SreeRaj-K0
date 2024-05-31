@@ -4,12 +4,11 @@
 Dedicated cybersecurity enthusiast with a fervent passion for safeguarding digital environments. Eager to transition into a SOC analyst role
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -48,10 +47,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<<img src="https://img.shields.io/badge/-CCNA%20(Soften%20Technologies)-0056b3?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA%20(Soften%20Technologies)-0056b3?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-RHCE%20(Soften%20Technologies)-FF0000?style=for-the-badge&logo=redhat&logoColor=white" />
 
 
