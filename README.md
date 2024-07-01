@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Intrusion Detection Lab With pfSense, Snort, Splunk        | <a href="https://github.com/SreeRaj-K0/Intrusion-Detection-Lab" target="_blank"  rel="noopener noreferrer" >Detection Lab</a>|
+| Intrusion Detection Lab With pfSense, Snort, Splunk        | <a href="https://github.com/SreeRaj-K0/Intrusion-Detection-Lab" target="_blank"  rel="noopener noreferrer" >Intrusion Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
