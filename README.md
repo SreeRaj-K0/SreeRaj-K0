@@ -1,7 +1,9 @@
                                                                                                                                                                       
   # Hello, I'm Sreeraj K
 
-<a href="https://www.linkedin.com/in/sreeraj-kk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sreeraj-kk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://medium.com/@Sreeraj_K" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" style="width:30px;height:30px;">
+</a>
+
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sree221.png)         <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Sreeraj_K.png" width="300" />
                                                                                                                                             
