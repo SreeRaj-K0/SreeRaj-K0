@@ -1,10 +1,10 @@
-# Hello, I'm Sreeraj K
-<a href="https://www.linkedin.com/in/sreeraj-kk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>              
-                                                                                                                                                                                    <img src="https://tryhackme-badges.s3.amazonaws.com/sree221.png" alt="Your Image Badge" />
-                                                                                                                                                                                    
-                                                                                                                                                                                      
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Sreeraj_K.png" width="300" />                                                                                                                                                                           
-                                                                                                                                                                                    
+                                                                                                                                                                      
+  # Hello, I'm Sreeraj K
+
+<a href="https://www.linkedin.com/in/sreeraj-kk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sree221.png)
+                                                                                                                                            
                                                                                                                                                                                     
 
 Dedicated cybersecurity enthusiast with a fervent passion for safeguarding digital environments. Eager to transition into a SOC analyst role
