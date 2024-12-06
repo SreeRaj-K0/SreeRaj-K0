@@ -18,39 +18,42 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Intrusion Detection, Log Analysis       | <a href="https://github.com/SreeRaj-K0/Intrusion-Detection-Lab" target="_blank"  rel="noopener noreferrer" >Intrusion Detection Lab</a>|
-| Host Intrusion Detection, C&C, Detection & Response | <a href="https://github.com/SreeRaj-K0/EDR_Home_Lab">EDR Home Lab </a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                               | Associated Project                                                                                                                      |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Threat Detection, EDR , C&C, Incident Response & Containment                       | **[Elastic-SIEM-Home-Lab-And-Elastic-Defend-EDR](https://github.com/SreeRaj-K0/Elastic-SIEM-Home-Lab-And-Elastic-Defend-EDR)**          |
+| Host Intrusion Detection, C&C, Detection & Response | <a href="https://github.com/SreeRaj-K0/EDR_Home_Lab">Limacharlie EDR Home Lab </a>                                                      |
+| Security Automation with Shuffle SOAR               | SOC Automation Lab                                                                                                                      |
+| Incident Response Planning and Execution            | SOC Automation Lab                                                                                                                      |
+| Intrusion Detection, Log Analysis                   | <a href="https://github.com/SreeRaj-K0/Intrusion-Detection-Lab" target="_blank"  rel="noopener noreferrer" >Intrusion Detection Lab</a> |
+| Scripting and Automation for Threat Mitigation      | SOC Automation Lab                                                                                                                      |
 
 ## Tools
 
 
 ### Network
+
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TShark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Rita-FF6F61?style=for-the-badge&logo=rita&logoColor=white" />
+    
+    
 
 </div>
 
 ### Endpoint
+
 <div>
 <img src="https://img.shields.io/badge/-Wazuh-1A1A1A?style=for-the-badge&logo=wazuh&logoColor=white" />
 
 </div>
 
 ### SIEM
+
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Security%20Onion-000000?style=for-the-badge" />
+    
 
 </div>
 
@@ -66,10 +69,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 
