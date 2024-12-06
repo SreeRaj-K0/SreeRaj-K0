@@ -18,14 +18,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 
 
-| Skill                                               | Associated Project                                                                                                                      |
-| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Threat Detection, EDR , C&C, Incident Response & Containment                       | **[Elastic-SIEM-Home-Lab-And-Elastic-Defend-EDR](https://github.com/SreeRaj-K0/Elastic-SIEM-Home-Lab-And-Elastic-Defend-EDR)**          |
-| Host Intrusion Detection, C&C, Detection & Response | <a href="https://github.com/SreeRaj-K0/EDR_Home_Lab">Limacharlie EDR Home Lab </a>                                                      |
-| Security Automation with Shuffle SOAR               | SOC Automation Lab                                                                                                                      |
-| Incident Response Planning and Execution            | SOC Automation Lab                                                                                                                      |
-| Intrusion Detection, Log Analysis                   | <a href="https://github.com/SreeRaj-K0/Intrusion-Detection-Lab" target="_blank"  rel="noopener noreferrer" >Intrusion Detection Lab</a> |
-| Scripting and Automation for Threat Mitigation      | SOC Automation Lab                                                                                                                      |
+| Skill                                                             | Associated Project                                                                                                             |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Threat Detection ,EDR ,C&C ,Incident Response & Containment**   | **[Elastic-SIEM-Home-Lab-And-Elastic-Defend-EDR](https://github.com/SreeRaj-K0/Elastic-SIEM-Home-Lab-And-Elastic-Defend-EDR)** |
+| **Host Intrusion Detection, C&C, Detection & Response**           | **[LimaCharlie-EDR-Home-Lab](https://github.com/SreeRaj-K0/LimaCharlie-EDR-Home-Lab)**                                         |
+| **Case Management,SIEM Integration, Threat Detection & Response** | **[Wazuh-DFIR-IRIS-Soc-Home-Lab](https://github.com/SreeRaj-K0/Wazuh-DFIR-IRIS-Soc-Home-Lab-)**                                |
+| **Intrusion Detection, Log Analysis**                             | **[Intrusion-Detection-Lab](https://github.com/SreeRaj-K0/Intrusion-Detection-Lab)**                                           |
+|                                                                   |                                                                                                                                |
+| Scripting and Automation for Threat Mitigation                    | SOC Automation La                                                                                                              |
 
 ## Tools
 
@@ -51,11 +51,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### SIEM
 
 <div>
-    
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    
-
+  <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
 
 ## Certifications
 
@@ -71,6 +69,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 </div>
+
+
+
+
 
 
 ![badge](images/incident.png)
