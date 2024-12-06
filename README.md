@@ -9,11 +9,11 @@
                                                                                                                                             
                                                                                                                                                                                     
 
-Dedicated cybersecurity enthusiast with a fervent passion for safeguarding digital environments. Eager to transition into a SOC analyst role
 
-## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## About Me
+
+I am a dedicated cyber security enthusiast with a strong passion for safeguarding digital environments. Eager to transition into a SOC analyst role, I am committed to continuous learning and contributing to the security and protection of critical systems.
 
 ## Skills
 
@@ -25,7 +25,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | **Case Management,SIEM Integration, Threat Detection & Response** | **[Wazuh-DFIR-IRIS-Soc-Home-Lab](https://github.com/SreeRaj-K0/Wazuh-DFIR-IRIS-Soc-Home-Lab-)**                                |
 | **Intrusion Detection, Log Analysis**                             | **[Intrusion-Detection-Lab](https://github.com/SreeRaj-K0/Intrusion-Detection-Lab)**                                           |
 |                                                                   |                                                                                                                                |
-| Scripting and Automation for Threat Mitigation                    | SOC Automation La                                                                                                              |
+|                                                                   |                                                                                                                                |
+|                                                                   |                                                                                                                                |
+|                                                                   |                                                                                                                                |
 
 ## Tools
 
