@@ -61,14 +61,13 @@ I am a dedicated cyber security enthusiast with a strong passion for safeguardin
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA%20(Soften%20Technologies)-0056b3?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-RHCE%20(Soften%20Technologies)-FF0000?style=for-the-badge&logo=redhat&logoColor=white" />
-
-
-
-
-
-
-
 </div>
+
+
+
+
+
+
 
 
 
