@@ -26,8 +26,6 @@ I am a dedicated cyber security enthusiast with a strong passion for safeguardin
 | **Intrusion Detection, Log Analysis**                             | **[Intrusion-Detection-Lab](https://github.com/SreeRaj-K0/Intrusion-Detection-Lab)**                                           |
 |                                                                   |                                                                                                                                |
 |                                                                   |                                                                                                                                |
-|                                                                   |                                                                                                                                |
-|                                                                   |                                                                                                                                |
 
 ## Tools
 
@@ -71,6 +69,11 @@ I am a dedicated cyber security enthusiast with a strong passion for safeguardin
 
 
 </div>
+
+
+
+
+![badge](images/soc.png)
 
 
 
