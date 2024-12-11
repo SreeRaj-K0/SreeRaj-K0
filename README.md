@@ -5,7 +5,7 @@
 </a>
 
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sree221.png)         <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Sreeraj_K.png" width="300" />
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=738260)         <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Sreeraj_K.png" width="300" />
                                                                                                                                             
                                                                                                                                                                                     
 
