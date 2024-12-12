@@ -19,7 +19,7 @@
 
 
 
-## About M
+## About Me
 
 I am a dedicated cyber security enthusiast with a strong passion for safeguarding digital environments. Eager to transition into a SOC analyst role, I am committed to continuous learning and contributing to the security and protection of critical systems.
 
