@@ -30,7 +30,7 @@ I am a dedicated cyber security enthusiast with a strong passion for safeguardin
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Threat Detection ,EDR ,C&C ,Incident Response & Containment**   | **[Elastic-SIEM-Home-Lab-And-Elastic-Defend-EDR](https://github.com/SreeRaj-K0/Elastic-SIEM-Home-Lab-And-Elastic-Defend-EDR)** |
 | **Host Intrusion Detection, C&C, Detection & Response**           | **[LimaCharlie-EDR-Home-Lab](https://github.com/SreeRaj-K0/LimaCharlie-EDR-Home-Lab)**                                         |
-| **Case Management,SIEM Integration, Threat Detection & Response** | **[Wazuh-DFIR-IRIS-Soc-Home-Lab](https://github.com/SreeRaj-K0/Wazuh-DFIR-IRIS-Soc-Home-Lab-)**                                |
+| **Case Management,SIEM Integration** | **[Wazuh-DFIR-IRIS-Soc-Home-Lab](https://github.com/SreeRaj-K0/Wazuh-DFIR-IRIS-Soc-Home-Lab-)**                                |
 | **Intrusion Detection, Log Analysis**                             | **[Intrusion-Detection-Lab](https://github.com/SreeRaj-K0/Intrusion-Detection-Lab)**                                           |
 | **Endpoint Monitoring, Threat Hunting**                           | **[Velociraptor-Home-lab](https://github.com/SreeRaj-K0/Velociraptor-Home-lab)**                  <br>                         |
 
